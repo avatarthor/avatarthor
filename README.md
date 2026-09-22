@@ -106,12 +106,6 @@ Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 ## `git log --stats`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avatarthor&theme=tokyonight" width="400" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avatarthor&theme=tokyonight" width="400" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avatarthor&theme=tokyonight" width="400" alt="Most commit language" />
   <img src="https://streak-stats.demolab.com?user=avatarthor&theme=tokyonight&hide_border=true" width="400" alt="GitHub streak" />
 </p>
 
@@ -121,47 +115,7 @@ Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 
 <pre>
 [deploy] ████████████████ 100%
-[status] production · green · shipping
+[status] production · green · running
 </pre>
-
-<pre>
-// pid: avatarthor
-// state: RUNNING
-// cwd: /zambia/lusaka
-// next: ship · learn · build
-</pre>
-
-<pre>
-avatarthor@lusaka:~$ uptime
-  systems: up · shipping · iterating
-</pre>
-
-<pre>
-$ git status
-On branch main
-Your career is up to date with 'origin/future'.
-nothing to commit, working tree clean · always building
-</pre>
-
-<pre>
-GET /status → 200 OK
-{"engineer":"avatarthor","location":"lusaka","mode":"shipping"}
-</pre>
-
-<pre>
-// status: online
-// mode: build → ship → learn → repeat
-</pre>
-
-<pre>
-> whoami
-avatarthor
-> mission
-scale systems · wire AI · keep prod green
-> exit
-0
-</pre>
-
-**[kaumambewe.com](https://kaumambewe.com)** · Lusaka, Zambia
 
 </div>
