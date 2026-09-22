@@ -18,14 +18,13 @@
 
 **Software Engineer** · Lusaka, Zambia
 
-Scalable systems · AI integrations · Cloud · DevOps
+Scalable systems · AI integrations · Cloud · DevOps · IoT
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaumambewe.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kaumambewe.com)
-[![Website](https://img.shields.io/badge/Website-kaumambewe.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaumambewe.com)
-[![GitHub](https://img.shields.io/badge/GitHub-avatarthor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avatarthor)
-[![Email](https://img.shields.io/badge/Email-hi%40kaumambewe.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@kaumambewe.com)
+<a href="https://kaumambewe.com"><img src="https://img.shields.io/badge/Portfolio-kaumambewe.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/avatarthor"><img src="https://img.shields.io/badge/GitHub-avatarthor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:hi@kaumambewe.com"><img src="https://img.shields.io/badge/Email-hi%40kaumambewe.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -38,9 +37,9 @@ $ cat ~/kauma.txt
 </pre>
 
 > I’m a software engineer who excels at creating functional, highly scalable web and mobile apps.  
-> My work spans full-stack development, specializing in **scalable system design**, **AI integrations**, **cloud deployment**, and **DevOps**.
+> My work spans full-stack development, specializing in **scalable system design**, **AI integrations**, **cloud deployment**, **DevOps**, and **IoT**.
 
-I build products across **agri-tech**, **fintech**, and **enterprise** — from USSD and APIs to web, mobile, integrations, and production ops.
+I build products across **agri-tech**, **fintech**, and **enterprise** — from USSD and APIs to web, mobile, integrations, connected devices, and production ops.
 
 ---
 
@@ -54,6 +53,7 @@ I build products across **agri-tech**, **fintech**, and **enterprise** — from 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/USSD-111827?style=flat-square" alt="USSD" />
   <img src="https://img.shields.io/badge/AI%20Integrations-A855F7?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/IoT-10B981?style=flat-square&logo=raspberrypi&logoColor=white" alt="IoT" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/DevOps-F97316?style=flat-square&logo=gnubash&logoColor=white" alt="DevOps" />
@@ -65,9 +65,9 @@ I build products across **agri-tech**, **fintech**, and **enterprise** — from 
 
 ## `domains × focus`
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 ### Systems
 scalable design · APIs · integrations
@@ -78,11 +78,8 @@ web · mobile · USSD · bots
 ### Intelligence
 AI application layers · automation
 
-### Platform
-cloud deploy · CI/CD · monitoring
-
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Agri-tech
 farmer platforms · USSD · agri-intelligence · field apps
@@ -93,8 +90,17 @@ loans · KYC · referrals · SMS workflows
 ### AI layer
 bots · advisory flows · AI-assisted features
 
+</td>
+<td width="33%" valign="top">
+
+### Platform
+cloud deploy · CI/CD · monitoring
+
 ### DevOps
 VPS · cloud · CI/CD · production reliability
+
+### IoT
+Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 
 </td>
   </tr>
@@ -104,15 +110,14 @@ VPS · cloud · CI/CD · production reliability
 
 ## `git log --stats`
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avatarthor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarthor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top languages" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avatarthor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avatarthor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com/?user=avatarthor&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avatarthor&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub streak" />
+</p>
 
 ---
 
