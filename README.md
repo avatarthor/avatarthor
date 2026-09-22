@@ -124,4 +124,44 @@ Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 [status] production · green · shipping
 </pre>
 
+<pre>
+// pid: avatarthor
+// state: RUNNING
+// cwd: /zambia/lusaka
+// next: ship · learn · build
+</pre>
+
+<pre>
+avatarthor@lusaka:~$ uptime
+  systems: up · shipping · iterating
+</pre>
+
+<pre>
+$ git status
+On branch main
+Your career is up to date with 'origin/future'.
+nothing to commit, working tree clean · always building
+</pre>
+
+<pre>
+GET /status → 200 OK
+{"engineer":"avatarthor","location":"lusaka","mode":"shipping"}
+</pre>
+
+<pre>
+// status: online
+// mode: build → ship → learn → repeat
+</pre>
+
+<pre>
+> whoami
+avatarthor
+> mission
+scale systems · wire AI · keep prod green
+> exit
+0
+</pre>
+
+**[kaumambewe.com](https://kaumambewe.com)** · Lusaka, Zambia
+
 </div>
