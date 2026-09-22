@@ -16,12 +16,16 @@
 
 # Kauma Mbewe
 
-**Software Engineer** · Lusaka, Zambia  
+**Software Engineer** · Lusaka, Zambia
+
 Scalable systems · AI integrations · Cloud · DevOps
 
-[![Website](https://img.shields.io/badge/web-kaumambewe.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaumambewe.com)
-[![GitHub](https://img.shields.io/badge/github-avatarthor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avatarthor)
-[![Email](https://img.shields.io/badge/email-hi%40kaumambewe.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@kaumambewe.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kaumambewe.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kaumambewe.com)
+[![Website](https://img.shields.io/badge/Website-kaumambewe.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaumambewe.com)
+[![GitHub](https://img.shields.io/badge/GitHub-avatarthor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avatarthor)
+[![Email](https://img.shields.io/badge/Email-hi%40kaumambewe.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@kaumambewe.com)
 
 </div>
 
@@ -57,64 +61,44 @@ I build products across **agri-tech**, **fintech**, and **enterprise** — from 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<pre>
-┌──────────────────┬────────────────────────────────────────────┐
-│ domain           │ focus                                      │
-├──────────────────┼────────────────────────────────────────────┤
-│ systems          │ scalable design · APIs · integrations      │
-│ channels         │ web · mobile · USSD · bots                 │
-│ intelligence     │ AI application layers · automation         │
-│ platform         │ cloud deploy · CI/CD · monitoring          │
-└──────────────────┴────────────────────────────────────────────┘
-</pre>
-
 ---
 
-## `experience`
+## `domains × focus`
 
-<pre>
-2025 — present   Good Nature Agro          Software Engineer
-2020 — 2024      Blulite Concepts          Software Engineer
-2023 — 2024      Syngenta Zambia           Mobile App Developer
-2023 — 2023      Astro Tech                Systems Analyst
-2021 — 2021      Eagle Net WIFI            Part-Time Technician
-2019 — 2021      Huawei ICT Academy        NIPA Campus Ambassador
-</pre>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**What I ship**
-- Agri-tech platforms — USSD, agri-intelligence, Trace/ERP sync, field mobile
-- Fintech systems — loans, KYC, referrals, bulk SMS
-- Full-stack products — Laravel, React, Flutter / Kotlin
-- Platform work — AWS / DigitalOcean, deploys, uptime, remote device ops
+### Systems
+scalable design · APIs · integrations
 
----
+### Channels
+web · mobile · USSD · bots
 
-## `focus`
+### Intelligence
+AI application layers · automation
 
-- **Agri-tech** — farmer platforms, USSD, agri-intelligence, field apps
-- **Fintech** — loans, KYC, referrals, SMS-driven workflows
-- **AI layer** — bots, advisory flows, AI-assisted product features
-- **DevOps** — VPS, cloud, CI/CD, monitoring, production reliability
+### Platform
+cloud deploy · CI/CD · monitoring
 
----
+</td>
+<td width="50%" valign="top">
 
-## `creds`
+### Agri-tech
+farmer platforms · USSD · agri-intelligence · field apps
 
-- BSc Computer Science — National Institute of Public Administration (NIPA)
-- HCIA Routing & Switching — Huawei ICT Academy
-- ICTAZ Licentiate — ICT Association of Zambia
-- Best Services Award — 13th ICTAZ AGM Mini Expo
+### Fintech
+loans · KYC · referrals · SMS workflows
 
----
+### AI layer
+bots · advisory flows · AI-assisted features
 
-## `links`
+### DevOps
+VPS · cloud · CI/CD · production reliability
 
-<pre>
-[0] portfolio   →  https://kaumambewe.com
-[1] github      →  https://github.com/avatarthor
-[2] org         →  https://github.com/binary-crafts
-[3] email       →  hi@kaumambewe.com
-</pre>
+</td>
+  </tr>
+</table>
 
 ---
 
