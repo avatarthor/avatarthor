@@ -1,17 +1,14 @@
 <div align="center">
 
 <pre>
- ╔══════════════════════════════════════════════════════════╗
- ║                                                          ║
- ║     ██╗  ██╗ █████╗ ██╗   ██╗███╗   ███╗ █████╗          ║
- ║     ██║ ██╔╝██╔══██╗██║   ██║████╗ ████║██╔══██╗         ║
- ║     █████╔╝ ███████║██║   ██║██╔████╔██║███████║         ║
- ║     ██╔═██╗ ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║         ║
- ║     ██║  ██╗██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║         ║
- ║     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝         ║
- ║                                                          ║
- ║              software engineer  ·  zambia                ║
- ╚══════════════════════════════════════════════════════════╝
+ █████╗ ██╗   ██╗ █████╗ ████████╗ █████╗ ██████╗ ████████╗██╗  ██╗ ██████╗ ██████╗ 
+██╔══██╗██║   ██║██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔═══██╗██╔══██╗
+███████║██║   ██║███████║   ██║   ███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝
+██╔══██║╚██╗ ██╔╝██╔══██║   ██║   ██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗
+██║  ██║ ╚████╔╝ ██║  ██║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║
+╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+
+                    software engineer  ·  zambia
 </pre>
 
 # Kauma Mbewe
@@ -111,12 +108,13 @@ Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 ## `git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avatarthor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avatarthor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avatarthor&theme=tokyonight" width="400" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avatarthor&theme=tokyonight" width="400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=avatarthor&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avatarthor&theme=tokyonight" width="400" alt="Most commit language" />
+  <img src="https://streak-stats.demolab.com?user=avatarthor&theme=tokyonight&hide_border=true" width="400" alt="GitHub streak" />
 </p>
 
 ---
