@@ -8,12 +8,10 @@
 ██║  ██║ ╚████╔╝ ██║  ██║   ██║   ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║
 ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 
-                    software engineer  ·  zambia
+                    Software Engineer  ·  User Experience Designer · Automation Expert
 </pre>
 
 # Kauma Mbewe
-
-**Software Engineer** · Lusaka, Zambia
 
 Scalable systems · AI integrations · Cloud · DevOps · IoT
 
@@ -122,9 +120,8 @@ Raspberry Pi · captive portals · remote device mgmt · OTA updates · tracking
 <div align="center">
 
 <pre>
-// status: shipping · learning · building
+[deploy] ████████████████ 100%
+[status] production · green · shipping
 </pre>
-
-**[kaumambewe.com](https://kaumambewe.com)** · Lusaka, Zambia
 
 </div>
